@@ -1,5 +1,4 @@
-import logoSvg from "../img/logo-black.svg";
-import bowmans from '../img/bowmanslogo.png'
+import bowmans from "../img/bowmanslogo.png";
 import renderHome from "./renderHome.js";
 
 export default function initLogoAndTitle(contentDiv, isH1 = false) {

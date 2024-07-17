@@ -1,0 +1,38 @@
+[
+  {
+    "id": 0,
+    "title": "Burgers"
+  },
+  {
+    "id": 1,
+    "title": "Pasta"
+  },
+  {
+    "id": 2,
+    "title": "Fries"
+  },
+  {
+    "id": 3,
+    "title": "Sandwich"
+  },
+  {
+    "id": 4,
+    "title": "Momo"
+  },
+  {
+    "id": 5,
+    "title": "Chinese"
+  },
+  {
+    "id": 6,
+    "title": "Pizza"
+  },
+  {
+    "id": 7,
+    "title": "Mocktail"
+  },
+  {
+    "id": 8,
+    "title": "Shakes"
+  }
+]

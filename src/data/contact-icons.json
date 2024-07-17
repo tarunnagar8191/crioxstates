@@ -1,0 +1,9 @@
+{
+  "address": ["solid", "location-dot"],
+  "address2":["solid", "location-dot"],
+  "phone": ["solid", "phone"],
+  "email": ["solid", "envelope"],
+  "facebook": ["brands", "facebook"],
+  "instagram": ["brands", "instagram"],
+  "x-twitter": ["brands", "x-twitter"]
+}
